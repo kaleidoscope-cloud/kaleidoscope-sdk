@@ -1,7 +1,5 @@
 # Kaleidoscope SDK
 
-![Kaleidoscope SDK](https://your-image-url.com/logo.png)
-
 Welcome to the **Kaleidoscope SDK**! This Python package provides a simple and intuitive way to interact with the **Kaleidoscope API**, allowing you to access SEC filings, insider transactions, stock data, corporate actions, and more.
 
 ## Features
