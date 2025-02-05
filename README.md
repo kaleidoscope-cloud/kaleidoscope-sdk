@@ -31,6 +31,8 @@ pip install .
 
 ## Getting Started
 
+To start using the Kaleidoscope API, sign up for an API key at Kaleidoscope API Landing Page.
+
 ### Import and Initialize the SDK
 
 ```python
