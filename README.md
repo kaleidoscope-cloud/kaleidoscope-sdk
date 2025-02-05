@@ -120,12 +120,6 @@ api.get_corporate_actions(identifier="TSLA", limit=2)
 api.get_sedar_filings(identifier="00029882", limit=1)
 ```
 
-## Running Tests
-Run unit tests to verify functionality:
-```sh
-python -m unittest discover tests
-```
-
 ## Contributing
 We welcome contributions! To contribute:
 1. Fork the repository.
