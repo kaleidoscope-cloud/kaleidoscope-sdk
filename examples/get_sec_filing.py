@@ -1,7 +1,7 @@
 from kaleidoscope_sdk import KaleidoscopeAPI
 
 # Initialize the SDK with your API key
-api = KaleidoscopeAPI(api_key="12539378-38b3-4b12-917f-b44185406b6a")
+api = KaleidoscopeAPI(api_key="API-KEY")
 
 # Search SEC filings for Apple Inc. (AAPL) with content type 'sec'
 try:

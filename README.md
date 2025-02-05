@@ -29,7 +29,7 @@ pip install .
 
 ## Getting Started
 
-To start using the Kaleidoscope API, sign up for an API key at [Kaleidoscope API Landing Page](https://api-dev.kscope.io/landing-dev).
+To start using the Kaleidoscope API, sign up for an API key at [Kaleidoscope API Landing Page](https://api-dev.kscope.io/landing).
 
 ### Import and Initialize the SDK
 

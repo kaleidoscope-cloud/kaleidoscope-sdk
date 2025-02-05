@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="kaleidoscope-sdk",  # PyPI name (uses a dash)
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Kaleidoscope",
+    author_email="support@kscope.io",
     description="A Python SDK for the Kaleidoscope API",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/kaleidoscope-sdk",
+    url="https://github.com/kaleidoscope-cloud/kaleidoscope-sdk.git",
     packages=find_packages(include=["kaleidoscope_sdk"]),  # Python package uses underscore
     install_requires=["requests>=2.25.1"],
     classifiers=[
