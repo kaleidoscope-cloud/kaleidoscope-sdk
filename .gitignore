@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore test coverage reports
+.coverage
+htmlcov/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+.DS_Store
+*.swp
