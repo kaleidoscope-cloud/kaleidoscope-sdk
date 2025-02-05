@@ -24,7 +24,7 @@ pip install kaleidoscope-sdk
 Or install from source:
 
 ```sh
-git clone https://github.com/yourusername/kaleidoscope-sdk.git
+git clone https://github.com/kaleidoscope-cloud/kaleidoscope-sdk.git
 cd kaleidoscope-sdk
 pip install .
 ```
@@ -136,8 +136,12 @@ We welcome contributions! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For support or questions, open an issue or contact us at [your.email@example.com](mailto:your.email@example.com).
+For support or questions, open an issue or contact us at [support@kscope.io](mailto:support@kscope.io).
 
 ## 🌟 Star This Repo!
 If you find this SDK useful, consider starring ⭐ the repository to help others find it!
+Disclaimer
+
+## Disclaimer
+The data provided by this API is strictly for internal use only and is not intended for external distribution, publication, or unauthorized use. It also cannot be used for AI training, machine learning models, or any related purposes. However, this restriction does not apply to the Enterprise Package, which may be used externally as permitted by its terms. Unauthorized access, sharing, or disclosure of restricted data is strictly prohibited.
 
