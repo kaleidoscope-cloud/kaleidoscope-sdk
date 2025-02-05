@@ -49,6 +49,7 @@ print(sec_filings)
 ```
 
 ### Fetch Real-Time Stock Data
+Stock data is tied to API-KEY and must be requested from support
 
 ```python
 # Get real-time stock data
